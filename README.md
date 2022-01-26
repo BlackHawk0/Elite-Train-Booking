@@ -16,7 +16,4 @@
 11. Start server,run: `php artisan serve`.
 12. Serve the website on a secure server on ngrok or localtunnel. (Required for mpesa functionality)
 =======
-# Elite-Train-Booking
-A train booking web platform for Kenya Railway. The System makes use of two core routes, the commuter rail route and the intercounty. Train , routes and schedules can be added in the respective routes. It makes use of the Mpesa API (Daraja API) to facilitate transactions.
->>>>>>> d9bbae73200171be5c705d07be616c92d24e97e9
->>>>>>> 79607754bc835f901249a158f43d9fb3500b187e
+
